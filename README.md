@@ -10,9 +10,11 @@ In this project, we trade only the symbol JPM. Two strategies were implemented:
 manual and strategy learner. Qlearner was used for strategy learner. 3 indicators
 were used to set the trading rules for both strategies: price/SMA ratio, RSI and
 momentum, which are selected from the previous project 6.
+
 The benchmark will be the performance of a portfolio starting with $100,000
 cash, investing in 1000 shares of the symbol in use on the ﬁrst trading day, and
 holding that position. Include transaction costs.
+
 After conducting the experiments, it was discovered that the performance of the
 strategy learner is the best, followed by manual strategy and benchmark. The
 detailed experiment results and conclusions are discussed below.
